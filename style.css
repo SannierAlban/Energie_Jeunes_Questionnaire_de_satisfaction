@@ -1,0 +1,25 @@
+body {
+    background-color: #EEF9FD;
+}
+
+.form-group {
+    background-color: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.form-check-input:checked+.form-check-label {
+    color: #5FC3E1;
+}
+
+.form-check-input:focus+.form-check-label {
+    background-color: #F2922B;
+}
+
+button.btn.btn-primary {
+    background-color: #5FC3E1;
+    border-color: #5FC3E1;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
