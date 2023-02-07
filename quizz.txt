@@ -1,0 +1,7 @@
+Quel est votre âge ?;true;Moins de 18 ans;De 18 à 25 ans;De 26 à 35 ans;Plus de 35 ans
+Préférez-vous les chats ou les chiens ?;true;Chats;Chiens;Les deux
+Quelle est votre couleur préférée ?;false;Rouge;Bleu;Vert;Jaune;Rose
+Avez-vous déjà voyagé à l'étranger ?;true;Oui;Non
+Si oui, où avez-vous voyagé récemment ?;false;Asie;Amérique du Nord;Amérique du Sud;Europe;Afrique
+J'ai découvert Energie Jeunes;true;cette année;l'an passé au collège;en CM2; Je ne sais pas / Autre réponse
+j'aime le taff ?;true;oui;non
