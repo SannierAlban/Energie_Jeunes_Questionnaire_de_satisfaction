@@ -23,20 +23,33 @@ function getQuizzData() {
 
 function generateQuiz(questions) {
     let quizHTML = '';
+
+    quizHTML += '<table class="table table-light table-striped"><tbody>'
+
     questions.forEach((question) => {
-        quizHTML += `<div class="form-group">
-                    <label>${question.title}</label><br>`;
+        quizHTML += `<tr class="form-group">
+                            <th class="col-4">${question.title}</th>`;
         question.responses.forEach((response) => {
             let inputType = question.isSingleAnswerQuestion ? 'radio' : 'checkbox';
-            quizHTML += `<div class="form-check form-check-inline">
+            quizHTML += `<th class="form-check form-check-inline">
                       <input class="form-check-input" type="${inputType}" name="${question.title}" id="${question.title}-${response}" value="${response}">
                       <label class="form-check-label d-block" for="${question.title}-${response}">${response}</label>
-                    </div>`;
+                    </th>`;
         });
-        quizHTML += `</div>`;
+        quizHTML += `</tr>`;
     });
-    quizHTML += `<button class="btn btn-primary" id="submitButton">Envoyer</button>
-                 <button class="btn btn-danger" id="finishButton">Finir</button>`;
+
+    quizHTML += `</tbody></table>`
+
+
+    quizHTML += `<div class="container text-center mb-5 ">
+                    <div class="row justify-content-evenly"> 
+                        <button class="col-3 btn btn-primary" id="submitButton">Saisir la prochaine fiche</button>
+                        <button class="col-3 offset-6 btn btn-danger" id="finishButton">Générer un tableau Excel</button>
+                    </div>
+                </div>    `;
+
+
     document.getElementById('body').innerHTML = quizHTML;
 
     let responses = {};
