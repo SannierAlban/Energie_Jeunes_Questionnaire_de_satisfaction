@@ -1,7 +1,8 @@
-Quel est votre âge ?;true;Moins de 18 ans;De 18 à 25 ans;De 26 à 35 ans;Plus de 35 ans
-Préférez-vous les chats ou les chiens ?;true;Chats;Chiens;Les deux
-Quelle est votre couleur préférée ?;false;Rouge;Bleu;Vert;Jaune;Rose
-Avez-vous déjà voyagé à l'étranger ?;true;Oui;Non
-Si oui, où avez-vous voyagé récemment ?;false;Asie;Amérique du Nord;Amérique du Sud;Europe;Afrique
-J'ai découvert Energie Jeunes;true;cette année;l'an passé au collège;en CM2; Je ne sais pas / Autre réponse
-j'aime le taff ?;true;oui;non
+J'ai découvert Energie Jeunes :;true;cette année;l'an passé au Collège;en CM2;je ne sais pas/Autre réponse
+J'ai appris des choses intéressantes.;true;Totalement d'accord;Plutôt d'accord;Pas trop d'accord;Pas du tout d'accord
+J'ai parlé de ce que j'ai appris avec :;false;ma famille; des amis; autre
+Je pense que je peux améliorer encore mon intelligence grâce au travail au Collège.;true;Totalement d'accord;Plutôt d'accord;Pas trop d'accord;Pas du tout d'accord
+J'ai décidé de faire davantage d'efforts pour m'améliorer au Collège.;true;Oui;Non
+J'ai pris une nouvelle habitude.;true;Oui;Non
+Je commence déjà à faire des progrès.;true;Oui;Non
+Comment vois-tu que tu as fait des progrès ?;false;Je suis plus à l'aise en cours;J'ai de meilleurs notes;Je suis moins stressé(e)
