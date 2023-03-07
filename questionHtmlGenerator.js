@@ -53,7 +53,6 @@ export function generateQuiz(questions) {
     });
 
     document.getElementById('finishButton').addEventListener('click', function () {
-
         questions.forEach((question) => {
             let inputs = document.getElementsByName(question.title);
             inputs.forEach((input) => {
@@ -86,6 +85,6 @@ export function generateQuiz(questions) {
         link.click();
 
         document.getElementById("nbSaissi").innerHTML = (nb = 0);
-
+        responses = {};
     });
 }
