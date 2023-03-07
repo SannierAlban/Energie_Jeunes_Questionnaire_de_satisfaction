@@ -1,0 +1,8 @@
+J'ai découvert Energie Jeunes :;true;cette année;l'année dernière;il y a plus longtemps;je ne me souviens plus
+J’ai appris des choses intéressantes;true;Totalement d’accord;Plutôt d’accord;Pas trop d’accord;Pas du tout d’accord
+J’ai parlé de ce que j’ai appris avec :;false;ma famille;des amis;autre :
+Je pense que je peux améliorer encore mon intelligence grace au travail au lycée.;true;Totalement d’accord;Plutôt d’accord;Pas trop d’accord;Pas du tout d’accord
+J’ai décidé de faire davantage d’efforts pour m'améliorer au lycée.;true;Oui;Non
+J'ai pris une nouvelle habitude.;true;Oui;Non
+Je commence déjà à faire des progrès.;true;Oui;Non
+Comment vois-tu que tu as fait des progrès ?;false;Je suis plus à l’aise en cours;J’ai de meilleures notes;Je suis moins stressé(e)

@@ -1,0 +1,5 @@
+Avant cet épisode, connaissais-tu des adultes qui travaillent dans une entreprise ?;true;Oui;Non
+Pendant cet épisode, as-tu découvert de nouveaux métiers ?;false;Oui;Non, je connaissais déjà les métiers présentés.
+Avant cet épisode, tu avais : (plusieurs réponses possibles);false;Une idée précise des études que tu veux faire;Une idée précise du métier que tu exerceras plus tard;Tu ne savais pas encore quelles études et quel métier tu voudrais faire plus tard
+Aujourd’hui tu as : (plusieurs réponses possibles);false;Une idée plus précise des études ou du métier que tu veux faire;Une idée aussi précise qu’avant des études ou du métier que tu veux faire;Une idée moins précise des études ou du métier que tu veux faire
+Cet épisode t’a donné envie (plusieurs réponses possibles) ?;false;De te renseigner sur un métier, lequel;De découvrir de nouveaux métiers exercés en entreprise;De faire un stage en entreprise;Cet épisode ne m’a pas donné envie de plus découvrir le monde de l’entreprise
