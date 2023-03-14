@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.2.3",
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.5"
   }
 }
